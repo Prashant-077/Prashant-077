@@ -18,6 +18,7 @@ Tools: Git, GitHub, VS Code
 Here are some of my recent projects:
 
 Hospital Appointment Booking System – A web-based system for booking doctor appointments.
+
 Ray-Ban Virtual Try-On – An interactive UI for trying out glasses online.
 
 Check out more on my GitHub Repositories.
