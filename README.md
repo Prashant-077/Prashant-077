@@ -27,7 +27,7 @@ Check out more on my GitHub Repositories.
 
 Email: prashantnagar39@gmail.com
 
-LinkedIn: (https://www.linkedin.com/in/prashant-nagar-961137231/)
+LinkedIn: {Prashant Nagar}(https://www.linkedin.com/in/prashant-nagar-961137231/)
 
 Let's connect and collaborate! 🚀
 
