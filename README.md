@@ -8,7 +8,9 @@ I'm a passionate Front-End Developer with experience in HTML, CSS, JavaScript, a
 🔧 Tech Stack
 
 Languages: HTML, CSS, JavaScript
+
 Frameworks & Libraries: React, Bootstrap, Tailwind CSS
+
 Tools: Git, GitHub, VS Code
 
 📌 Projects
