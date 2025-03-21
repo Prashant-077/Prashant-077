@@ -8,9 +8,7 @@ I'm a passionate Front-End Developer with experience in HTML, CSS, JavaScript, a
 🔧 Tech Stack
 
 Languages: HTML, CSS, JavaScript
-
 Frameworks & Libraries: React, Bootstrap, Tailwind CSS
-
 Tools: Git, GitHub, VS Code
 
 📌 Projects
@@ -18,18 +16,14 @@ Tools: Git, GitHub, VS Code
 Here are some of my recent projects:
 
 Hospital Appointment Booking System – A web-based system for booking doctor appointments.
-
 Ray-Ban Virtual Try-On – An interactive UI for trying out glasses online.
-
-[Your New Project Here] – Add a new project you're working on.
 
 Check out more on my GitHub Repositories.
 
 📫 Contact Me
 
 Email: prashantnagar39@gmail.com
-
-LinkedIn: [Your LinkedIn Profile]
+LinkedIn: (https://www.linkedin.com/in/prashant-nagar-961137231/)
 
 Let's connect and collaborate! 🚀
 
